@@ -4,7 +4,7 @@ Getting and Cleaning Data: Course Project
 Introduction
 ------------
 This repository contains my work for the course project for the Coursera course "Getting and Cleaning data", part of the Data Science specialization.
-What follows first are my notes on the original data.
+
 
 About the raw data
 ------------------
