@@ -1,8 +1,8 @@
 ---
 title: "Practical_Machine_Learning_Course_Project.Rmd"
 output:
-  html_document: default
   html_notebook: default
+  html_document: default
 ---
 Prediction Assignment Writeupless 
 
@@ -73,7 +73,7 @@ Selected the best Model
 
 The accuracy of the 2 modeling methods above are:
 
-Random Forest : 0.9926
+Random Forest : 0.9921
 LDA           : 0.7046
 
 Random Forest will be selected.
